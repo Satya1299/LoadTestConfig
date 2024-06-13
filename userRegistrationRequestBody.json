@@ -1,11 +1,11 @@
 {
-    "userName": "random",
-    "firstName": "Elijah",
-    "lastName": "Sharma",
+    "userName": "random",  // dont change username value. 
+    "firstName": "firstname",
+    "lastName": "lastname",
     "email": "satya@gmail.co.in",
     "roleId": 11,
     "mobileNumber": "9333333149",
     "userType": "SUB",
-    "adminUserName": "fino_admin",
-    "parentUserName": "fino_admin"
+    "adminUserName": "admin_name",
+    "parentUserName": "parent_name"
 }
